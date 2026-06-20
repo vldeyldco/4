@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/profile.php?id=61568424693965");
+    window.open("https://facebook.com/groups/1646174380211584/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
